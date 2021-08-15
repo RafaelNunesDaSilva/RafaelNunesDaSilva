@@ -1,5 +1,5 @@
 ## 🤴🏾 Olá, sou o Rafael Nunes.
-- 📖 Estudando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhanguera São Paulo
+- 📖 Estou estudando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhanguera São Paulo
 - 📚 Atualmente estou aprendendo HTML na Fundação Bradesco, e pretendo futuramento aprender CSS e JSentre muitos outros...
 
 <div>
