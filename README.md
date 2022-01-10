@@ -1,6 +1,6 @@
 ## 🤴🏾 Olá, sou o Rafael Nunes.
-- 📖 Estou estudando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhanguera São Paulo
-- 📚 Atualmente estou aprendendo HTML na Fundação Bradesco, e pretendo futuramento aprender CSS e JSentre muitos outros...
+- 📖 Sou estudante Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhanguera São Paulo
+- 📚 Atualmente estou estudando para ser um desenvolvedor Java FullStack na Generation Brasil, e pretendo futuramento me aperfeiçoar na linguagem...
 
 <div>
   <a href="https://github.com/RafaelNunesDaSilva">
