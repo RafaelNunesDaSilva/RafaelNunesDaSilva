@@ -1,6 +1,6 @@
 ## 🤴🏾 Olá, sou o Rafael Nunes.
 - 📖 Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhanguera São Paulo
-- 📚 Atualmente estou estudando para ser um desenvolvedor Java FullStack na Generation Brasil, e pretendo futuramento me aperfeiçoar na linguagem...
+- 📚 Atualmente estou estudando na Generation Brasil para ser um desenvolvedor Java FullStack, e busco a primeira oportunidade...
 
 <div>
   <a href="https://github.com/RafaelNunesDaSilva">
